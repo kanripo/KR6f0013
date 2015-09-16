@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:50.470022
+#+DATE: 2015-08-30 20:00:53.007858
 #+TITLE: 佛說護國尊者所問大乘經
 #+PROPERTY: CBETA_ID T12n0321
 #+PROPERTY: ID KR6f0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 321
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0013_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.321[No.310(18)]¶
-
- 《佛說護國尊者所問大乘經》卷第¶
+No. 321 [No. 310(18)]¶
+《佛說護國尊者所問大乘經》卷第¶
 一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
@@ -492,7 +491,7 @@ No.321[No.310(18)]¶
 　平等導引諸群生，
 　如是修習行十善。¶
 　尊重承事於法師，
-　依師教授而修學，¶
+　依師授教而修學，¶
 　作大供養求佛智，
 　無邊諸佛亦此生。¶
 　常住深山無所畏，
