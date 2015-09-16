@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說護國尊者所問大乘經
+#+DATE: 2015-08-30 20:00:50.810081
+#+PROPERTY: JUAN 0
