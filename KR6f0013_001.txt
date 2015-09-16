@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:50.470022
+#+DATE: 2015-08-30 20:00:52.687775
 #+TITLE: 佛說護國尊者所問大乘經
 #+PROPERTY: CBETA_ID T12n0321
 #+PROPERTY: ID KR6f0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 321
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0013_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.321[No.310(18)]¶
-
- 《佛說護國尊者所問大乘經》卷第¶
+No. 321 [No. 310(18)]¶
+《佛說護國尊者所問大乘經》卷第¶
 一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
